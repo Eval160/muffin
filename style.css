@@ -1,0 +1,20 @@
+h1, h2, h3, h4 {
+	text-align: center;
+	color: saddlebrown;
+}
+
+#description {
+	border: 1px solid saddlebrown;
+	padding: 16px 8px;
+
+}
+
+.subtitle {
+	border-bottom: 1px solid saddlebrown;
+}
+
+img {
+	width: 250px;
+	height: 100px;
+	object-fit: cover;
+}
